@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_view_padding">10dp</dimen>
+    <dimen name="rowitem_header">20sp</dimen>
+    <dimen name="rowitem_subheader">16sp</dimen>
+    <dimen name="rowitem_subheader_margin_start">4dp</dimen>
+    <dimen name="rowitem_title">16sp</dimen>
+    <dimen name="rowitem_desc">14sp</dimen>
+    <dimen name="padding_cardview">4dp</dimen>
+</resources>

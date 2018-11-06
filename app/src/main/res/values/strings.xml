@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CheckNetworkStatus</string>
+    <string name="waiting_for_connectivity_status">Waiting for connectivity status&#8230;</string>
+    <string name="waiting_for_internet_status">Waiting for Internet status&#8230;</string>
+    <string name="connectivity_status">Connectivity status:</string>
+    <string name="internet_status">Internet status:</string>
+    <string name="header">Header</string>
+    <string name="subheader">Sub Header</string>
+    <string name="title">Title</string>
+    <string name="desc">Desc</string>
+
+    <string name="test_connection">Test Connection</string>
+    <string name="connection_class">Your connection class is:</string>
+</resources>
